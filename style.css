@@ -1,0 +1,21 @@
+body .container {
+  margin: 20px;
+  padding: 20px;
+  border-style: none;
+}
+.nav-link {
+  margin: 0px 30px;
+}
+.breadcrumb-item {
+  font-size: 15px;
+}
+li .list-group-item {
+  font-size: 16px;
+  border: 0;
+}
+.glyphicon {
+  color: orange;
+}
+.card {
+  margin-right: 15px;
+}
