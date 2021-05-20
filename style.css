@@ -27,3 +27,30 @@ li .list-group-item {
 .card-body {
   margin: 5px;
 }
+.pages {
+  border-bottom: 1px solid whitesmoke;
+}
+.page {
+  margin-left: 50%;
+}
+.subscribe {
+  margin-left: 42%;
+}
+
+.subscribe .form-control,
+.subscribe .btn {
+  margin-top: 20px;
+}
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20%;
+}
+.footer .follow {
+  font-weight: bold;
+  margin-right: 10px;
+}
+.footer p {
+  margin-top: 20px;
+  font-size: 12px;
+}
