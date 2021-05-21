@@ -31,10 +31,10 @@ li .list-group-item {
   border-bottom: 1px solid whitesmoke;
 }
 .page {
-  margin-left: 50%;
+  margin-left: 35%;
 }
 .subscribe {
-  margin-left: 42%;
+  margin-left: 20%;
 }
 
 .subscribe .form-control,
@@ -42,13 +42,11 @@ li .list-group-item {
   margin-top: 20px;
 }
 .footer {
-  text-align: center;
   margin-top: 20px;
-  margin-left: 20%;
+  margin-left: 30%;
 }
 .footer .follow {
   font-weight: bold;
-  margin-right: 10px;
 }
 .footer p {
   margin-top: 20px;
