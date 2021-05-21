@@ -63,9 +63,15 @@ li .list-group-item {
   .col-9 {
     width: 65%;
   }
+  div.card {
+    border: transparent;
+  }
 }
-@media screen and (min-width: 576px) and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .col-9 {
     width: 45%;
+  }
+  div.card {
+    border: transparent;
   }
 }
